@@ -6,6 +6,7 @@ Library: lib_burst_generated
 --dump=Function
 --float-precision=Standard
 --format=Coff
+--disable-warnings=BC1370
 --compilation-defines=UNITY_2021_3_9
 --compilation-defines=UNITY_2021_3
 --compilation-defines=UNITY_2021
