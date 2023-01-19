@@ -1,8 +1,8 @@
 # Intermediate Graphic Lab
 
-[X] did something
+- [X] did something
 
-[] Weeeeeeeeee
+- [ ] Weeeeeeeeee
 
 
 
